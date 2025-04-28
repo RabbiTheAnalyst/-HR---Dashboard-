@@ -51,7 +51,7 @@ This interactive dashboard enables HR professionals to:
       <br /><sub><b>Email</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+      <a href="https://www.linkedin.com/in/rabbi-the-analyst">
         <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
       </a>
       <br /><sub><b>LinkedIn</b></sub>
@@ -63,7 +63,7 @@ This interactive dashboard enables HR professionals to:
       <br /><sub><b>GitHub</b></sub>
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/RabbiTheAnalyst/HR-Dashboard">
+      <a href="https://github.com/RabbiTheAnalyst/-HR---Dashboard-">
         <img src="https://img.icons8.com/fluent/48/000000/project.png" width="40" alt="Project" />
       </a>
       <br /><sub><b>Project</b></sub>
@@ -75,7 +75,7 @@ This interactive dashboard enables HR professionals to:
   <a href="mailto:rabbi.stat.iu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+  <a href="https://www.linkedin.com/in/rabbi-the-analyst">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://github.com/RabbiTheAnalyst">
