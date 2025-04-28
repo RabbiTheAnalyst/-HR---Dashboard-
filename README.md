@@ -40,8 +40,49 @@ This interactive dashboard enables HR professionals to:
 
 
 
-## 📧 Contact
+## 🌟 Contact  
 
-[Md. Rabbi Ali] - [rabbi.stat.iu@gmail.com] 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="mailto:rabbi.stat.iu@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" alt="Email" />
+      </a>
+      <br /><sub><b>Email</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" alt="LinkedIn" />
+      </a>
+      <br /><sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/RabbiTheAnalyst">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" width="40" alt="GitHub" />
+      </a>
+      <br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/RabbiTheAnalyst/HR-Dashboard">
+        <img src="https://img.icons8.com/fluent/48/000000/project.png" width="40" alt="Project" />
+      </a>
+      <br /><sub><b>Project</b></sub>
+    </td>
+  </tr>
+</table>
 
-Project Link: [https://github.com/yourusername/HR-Analytics-Dashboard](https://github.com/RabbiTheAnalyst/-HR---Dashboard-)
+<p align="center">
+  <a href="mailto:rabbi.stat.iu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/RabbiTheAnalyst">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to collaborations and data analytics opportunities!</i> ✨
+</p>
