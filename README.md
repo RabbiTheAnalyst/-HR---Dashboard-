@@ -22,7 +22,6 @@ This interactive dashboard enables HR professionals to:
 - **Interactive Filters**: Drill-down capabilities for deeper analysis
 - **Responsive Design**: Adapts to different screen sizes
 
-## 📂 Repository Structure
 
 
 
@@ -35,29 +34,11 @@ This interactive dashboard enables HR professionals to:
 
 ### Installation
 1. Clone this repository or download the `.pbix` file directly
-2. Open `HR_DashBoard.pbix` in Power BI Desktop
+2. Open `-HR---Dashboard-` in Power BI Desktop
 3. Explore the dashboard and interact with the visualizations
 
-## 📈 Key Metrics Included
 
-- Total employee count and distribution
-- Gender diversity metrics
-- Department-wise headcount
-- Promotion eligibility statistics
-- (Add any other notable metrics your dashboard tracks)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
