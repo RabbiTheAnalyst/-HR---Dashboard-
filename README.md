@@ -5,5 +5,5 @@ This repository contains a Power BI dashboard for HR analytics, showcasing metri
 ![HR Dashboard](Dashboard.png)
 
 ## Files
-- `HR-Dashboard.pbix`: Power BI file (open in Power BI Desktop to explore).
+- `HR DashBoard.pbix`: Power BI file (open in Power BI Desktop to explore).
 - Download and open in Power BI Desktop to interact with the dashboard.
